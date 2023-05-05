@@ -52,6 +52,9 @@
   <a href="https://sqlite.org/index.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.latex-project.org/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://html.com/html5/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </a>
@@ -72,9 +75,6 @@
   </a>
   <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.latex-project.org/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://git-scm.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
