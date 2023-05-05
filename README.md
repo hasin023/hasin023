@@ -2,7 +2,7 @@
 <div id="header" align="center">
 
   <h1>Hello 👋 I'm Hasin Mahtab</h1>
-  <h3>A Software Engineering major undergraduate</h3>
+  <h3>A Software Engineer major undergraduate</h3>
   
   <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
   
