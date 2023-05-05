@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on an **Evernote Clone**
 - 🌱 I’m currently learning **JavaScript, React.JS, ASP.NET**
-- 💬 Ask me about **.NET Desktop Development, LaTex**
+- 💬 Ask me about **.NET Desktop Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
 
