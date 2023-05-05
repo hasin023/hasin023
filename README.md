@@ -37,9 +37,9 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nuget/nuget-original-wordmark.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nuget/nuget-original.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
