@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on an **Evernote Clone**
-- 🌱 I’m currently learning **JavaScript, React.JS, ASP.NET**
+- 🔭 I’m currently working on an **Evernote Clone & Personal Portfolio**
+- 🌱 I’m currently learning **TailwindCSS, JavaScript, Adobe Xd**
 - 💬 Ask me about **.NET Desktop Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -34,6 +34,9 @@
 ###  Languages and Tools :
 
 <div>
+  <a href="https://azure.microsoft.com/en-us">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40"         height="40"/>&nbsp;
+  </a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>
@@ -61,6 +64,12 @@
   <a href="https://www.w3schools.com/css/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://getbootstrap.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://tailwindcss.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
@@ -73,9 +82,11 @@
   <a href="https://helpx.adobe.com/support/xd.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/xd/xd-line.svg" title="XD"  alt="XD" width="40" height="40"/>&nbsp;
   </a>
+  <!--
   <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
+  -->
   <a href="https://git-scm.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
