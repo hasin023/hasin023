@@ -1,7 +1,7 @@
 ### 
 <div id="header" align="center">
 
-  <h1>Hello 👋 I'm Hasin Mahtab</h1>
+  <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Hasin Mahtab</h1>
   <h3>A Software Engineer major undergraduate</h3>
   
   <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
@@ -67,9 +67,6 @@
   <a href="https://getbootstrap.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://tailwindcss.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
@@ -85,6 +82,9 @@
   <!--
   <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
+  </a>
+<a href="https://tailwindcss.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   </a>
   -->
   <a href="https://git-scm.com/">
