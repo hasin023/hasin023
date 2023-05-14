@@ -24,7 +24,7 @@
 ###  About Me :
 
 - 🔭 I’m currently working on an **Evernote Clone & Personal Portfolio**
-- 🌱 I’m currently learning **TailwindCSS, JavaScript, Adobe Xd**
+- 🌱 I’m currently learning **Azure, JavaScript, Adobe Xd**
 - 💬 Ask me about **.NET Desktop Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -76,6 +76,8 @@
   <a href="https://www.adobe.com/products/illustrator.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.adobe.com/products/premiere.html">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
   <a href="https://helpx.adobe.com/support/xd.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/xd/xd-line.svg" title="XD"  alt="XD" width="40" height="40"/>&nbsp;
   </a>
