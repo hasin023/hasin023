@@ -58,6 +58,9 @@
   <a href="https://www.latex-project.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   </a>
+    <a href="https://www.figma.com/ui-design-tool/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://html.com/html5/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </a>
@@ -78,9 +81,7 @@
   </a>
   <a href="https://www.adobe.com/products/premiere.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
-  <a href="https://www.figma.com/ui-design-tool/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
-  </a>
+
   <!--
 
   <a href="https://helpx.adobe.com/support/xd.html">
