@@ -35,7 +35,10 @@
 
 <div>
   <a href="https://azure.microsoft.com/en-us">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40"         height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://firebase.google.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
