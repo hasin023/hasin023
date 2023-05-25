@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on an **Evernote Clone & Personal Portfolio**
-- 🌱 I’m currently learning **Azure, JavaScript, Figma**
+- 🔭 I’m currently working on an **Reader's Pub & Personal Portfolio**
+- 🌱 I’m currently learning **PHP, JavaScript, Figma**
 - 💬 Ask me about **.NET Desktop Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
