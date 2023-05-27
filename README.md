@@ -23,9 +23,9 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on an **Reader's Pub & Personal Portfolio**
-- 🌱 I’m currently learning **PHP, JavaScript, Figma**
-- 💬 Ask me about **.NET Desktop Development**
+- 🔭 I’m currently working on a **Personal Portfolio**
+- 🌱 I’m currently learning **.NET MAUI, Bootstrap, Figma**
+- 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
 
@@ -50,7 +50,7 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://dotnet.microsoft.com/en-us/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.nuget.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nuget/nuget-original.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
