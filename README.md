@@ -24,7 +24,7 @@
 ###  About Me :
 
 - 🔭 I’m currently working on a **Personal Portfolio**
-- 🌱 I’m currently learning **.NET MAUI, Bootstrap, Figma**
+- 🌱 I’m currently learning **.NET MAUI, Bootstrap, JavaScript**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -40,8 +40,14 @@
   <a href="https://firebase.google.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.javatpoint.com/c-programming-language-tutorial">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <a href="https://www.latex-project.org/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.arduino.cc/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -52,16 +58,13 @@
   <a href="https://dotnet.microsoft.com/en-us/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.nuget.org/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nuget/nuget-original.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://sqlite.org/index.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.latex-project.org/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
-  </a>
-    <a href="https://www.figma.com/ui-design-tool/">
+  <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
   <a href="https://html.com/html5/">
@@ -71,10 +74,16 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://getbootstrap.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40"            height="40"/>&nbsp;
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
+  </a>
+  <a href="https://react.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://nodejs.org/en">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.adobe.com/products/photoshop.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
@@ -84,30 +93,20 @@
   </a>
   <a href="https://www.adobe.com/products/premiere.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
-
-  <!--
-
-  <a href="https://helpx.adobe.com/support/xd.html">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/xd/xd-line.svg" title="XD"  alt="XD" width="40" height="40"/>&nbsp;
-  </a>
-  
-<a href="https://tailwindcss.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  </a>
-  -->
   <a href="https://git-scm.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://about.gitlab.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
-  </a>
+  
 </div>
-
 
 ---
 
 ###  Stats :
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasin023&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasin023&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasin023&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
