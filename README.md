@@ -106,6 +106,10 @@
   <a href="https://git-scm.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
+    
+  <a href="https://about.gitlab.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
+  </a>
   
 </div>
 
