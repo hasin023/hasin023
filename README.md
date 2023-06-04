@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Personal Portfolio**
-- 🌱 I’m currently learning **.NET MAUI, Bootstrap, JavaScript**
+- 🔭 I’m currently working on a **Flavors & Personal Portfolio**
+- 🌱 I’m currently learning **.NET MAUI, ReactJS, NodeJS**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -58,15 +58,11 @@
   <a href="https://dotnet.microsoft.com/en-us/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
+
   <a href="https://sqlite.org/index.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.figma.com/ui-design-tool/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
-  </a>
+
   <a href="https://html.com/html5/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </a>
@@ -79,12 +75,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
   </a>
+  
+  <!--
+  
+  <a href="https://www.figma.com/ui-design-tool/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
+  </a>
+
   <a href="https://react.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://nodejs.org/en">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
+
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  
+  -->
+  
   <a href="https://www.adobe.com/products/photoshop.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   </a>
