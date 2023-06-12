@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Flavors & Personal Portfolio**
-- 🌱 I’m currently learning **.NET MAUI, ReactJS, NodeJS**
+- 🔭 I’m currently working on a **Flavors & Trackr**
+- 🌱 I’m currently learning **.NET MAUI, SaaS, NodeJS**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -69,8 +69,8 @@
   <a href="https://www.w3schools.com/css/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://getbootstrap.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40"            height="40"/>&nbsp;
+  <a href="https://sass-lang.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40"            height="40"/>&nbsp;
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
