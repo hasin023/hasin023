@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Flavors & Trackr**
-- 🌱 I’m currently learning **.NET MAUI, SaaS, NodeJS**
+- 🔭 I’m currently working on a **MyWallet & Trackr**
+- 🌱 I’m currently learning **.NET MAUI, SaaS, MySQL**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -59,8 +59,8 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://sqlite.org/index.html">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://html.com/html5/">
