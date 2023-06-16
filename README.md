@@ -23,7 +23,7 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **MyWallet & Trackr**
+- 🔭 I’m currently working on a **Trail & Trackr**
 - 🌱 I’m currently learning **.NET MAUI, SaaS, MySQL**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
