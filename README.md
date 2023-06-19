@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Trail & Trackr**
-- 🌱 I’m currently learning **.NET MAUI, SaaS, MySQL**
+- 🔭 I’m currently working on a **MyWallet & Trackr**
+- 🌱 I’m currently learning **PHP, SaaS, MySQL**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -43,9 +43,6 @@
   <a href="https://www.latex-project.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.arduino.cc/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   </a>
@@ -61,6 +58,10 @@
 
   <a href="https://www.mysql.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+
+  <a href="https://www.php.net/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   </a>
 
   <a href="https://html.com/html5/">
