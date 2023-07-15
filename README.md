@@ -76,6 +76,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
   </a>
+
+  <a href="https://www.mongodb.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://nodejs.org/en">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
+  </a>
+
+  <a href="https://react.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+  </a>
+
   
   <!--
   
@@ -83,16 +96,10 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://react.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://nodejs.org/en">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
+    <a href="https://about.gitlab.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
   
   -->
   
@@ -108,9 +115,6 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
     
-  <a href="https://about.gitlab.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
-  </a>
   
 </div>
 
