@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **MyWallet & Trackr**
-- 🌱 I’m currently learning **PHP, SaaS, MySQL**
+- 🔭 I’m currently working on a **Trail & FlavorsWebApp**
+- 🌱 I’m currently learning **SaaS, NodeJS, ReactJS**
 - 💬 Ask me about **.NET Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
