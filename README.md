@@ -43,6 +43,9 @@
   <a href="https://www.latex-project.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.arduino.cc/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   </a>
@@ -95,11 +98,6 @@
   <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
-
-    <a href="https://about.gitlab.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
-  </a>
-
   
   -->
   
