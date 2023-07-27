@@ -80,10 +80,11 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
   </a>
 
+<!--
   <a href="https://www.mongodb.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   </a>
-  
+  -->
   <a href="https://nodejs.org/en">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
