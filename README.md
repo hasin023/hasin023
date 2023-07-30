@@ -24,8 +24,8 @@
 ###  About Me :
 
 - 🔭 I’m currently working on a **Trail & FlavorsWebApp**
-- 🌱 I’m currently learning **SaaS, NodeJS, ReactJS**
-- 💬 Ask me about **.NET Development**
+- 🌱 I’m currently learning **NodeJS, ReactJS, Flutter**
+- 💬 Ask me about **.NET Development, PHP Backend**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
 
