@@ -101,6 +101,10 @@
   </a>
   
   -->
+
+  <a href="https://kotlinlang.org/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  </a>
   
   <a href="https://www.adobe.com/products/photoshop.html">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
