@@ -89,18 +89,20 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://react.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  </a>
-
-  
-  <!--
-  
+    
   <a href="https://www.figma.com/ui-design-tool/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
+
+    
+  <a href="https://svelte.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte " width="40" height="40"/>&nbsp;
+  </a>
   
-  -->
+
+  <a href="https://react.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+  </a>
 
   <a href="https://kotlinlang.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
