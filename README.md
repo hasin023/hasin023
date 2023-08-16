@@ -34,12 +34,12 @@
 ###  Languages and Tools :
 
 <div>
-  <a href="https://azure.microsoft.com/en-us">
+<!--   <a href="https://azure.microsoft.com/en-us">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://firebase.google.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  </a>
+  </a> -->
   <a href="https://www.latex-project.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   </a>
@@ -59,12 +59,9 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://www.php.net/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+      
+  <a href="https://www.figma.com/ui-design-tool/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://html.com/html5/">
@@ -76,6 +73,15 @@
   <a href="https://sass-lang.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40"            height="40"/>&nbsp;
   </a>
+  
+  <a href="https://www.php.net/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  </a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"         height="40"/>&nbsp;
   </a>
@@ -87,11 +93,6 @@
   -->
   <a href="https://nodejs.org/en">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
-  </a>
-
-    
-  <a href="https://www.figma.com/ui-design-tool/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
   </a>
 
     
@@ -119,7 +120,14 @@
   <a href="https://git-scm.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
-    
+
+   <a href="https://www.docker.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://kubernetes.io/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
+  </a>
   
 </div>
 
