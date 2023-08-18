@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Trail & FlavorsWebApp**
-- 🌱 I’m currently learning **Kotlin, ReactJS, Svelte**
+- 🔭 I’m currently working on a **Nike & METAVERSUS**
+- 🌱 I’m currently learning **Kotlin, ReactJS, Kubernetes**
 - 💬 Ask me about **.NET Development, PHP Backend**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
