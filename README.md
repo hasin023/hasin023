@@ -24,7 +24,7 @@
 ###  About Me :
 
 - 🔭 I’m currently working on a **Chat_Companion & Realtime_Designer**
-- 🌱 I’m currently learning **NextJS, SvelteKit, Flutter**
+- 🌱 I’m currently learning **SvelteKit, Flutter**
 - 💬 Ask me about **.NET Development, Web Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
