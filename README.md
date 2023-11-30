@@ -23,8 +23,8 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on a **Chat_Companion & Realtime_Designer**
-- 🌱 I’m currently learning **SvelteKit, Flutter**
+- 🔭 I’m currently working on **JavaLoX & StreamAPI**
+- 🌱 I’m currently learning **SvelteKit, Dart**
 - 💬 Ask me about **.NET Development, Web Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
@@ -38,6 +38,7 @@
   <a href="https://www.python.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   </a>
+  
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </a>
@@ -50,14 +51,19 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://dotnet.microsoft.com/en-us/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <a href="https://go.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
   </a>
-
+  
+<!--
   <a href="https://www.arduino.cc/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   </a>
+-->
 
+  <a href="https://dart.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  </a>
 
 </div>
 
@@ -78,19 +84,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
+
+  <a href="https://svelte.dev/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte " width="40" height="40"/>&nbsp;
+  </a>
   
   <a href="https://react.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
   </a>
-
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  </a>
-    
-  <a href="https://svelte.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte " width="40" height="40"/>&nbsp;
-  </a>
-
+  
 </div>
 
 ###  Backend Development
@@ -101,14 +103,11 @@
   <a href="https://azure.microsoft.com/en-us">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   </a>
-  
-  <a href="https://firebase.google.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
 
-  <a href="https://www.mongodb.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  </a>
 -->
   
 
@@ -116,12 +115,20 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
-
   <a href="https://nodejs.org/en">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
+  </a>
+
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  </a>
+
+  <a href="https://www.mongodb.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  </a>
+
+  <a href="https://firebase.google.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </a>
 
   </div>
@@ -136,10 +143,6 @@
 
   <a href="https://kotlinlang.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://dart.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://flutter.dev/">
@@ -185,8 +188,9 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   </a>
 
+<!-- 
   <a href="https://kubernetes.io/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
   </a>
-
+-->
 </div>
