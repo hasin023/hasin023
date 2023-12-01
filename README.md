@@ -23,7 +23,7 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on **JavaLoX & StreamAPI**
+- 🔭 I’m currently working on **JavaLoX & Collections Class**
 - 🌱 I’m currently learning **SvelteKit, Dart**
 - 💬 Ask me about **.NET Development, Web Development**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
