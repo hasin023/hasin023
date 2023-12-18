@@ -141,10 +141,11 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   </a>
 
+<!--
   <a href="https://kotlinlang.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   </a>
-
+-->
   <a href="https://flutter.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   </a>
