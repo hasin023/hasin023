@@ -51,19 +51,19 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
 
+  <a href="https://www.rust-lang.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  </a>
+
   <a href="https://go.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
   </a>
   
-<!--
-  <a href="https://www.arduino.cc/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
-  </a>
--->
-
+<!--   
   <a href="https://dart.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   </a>
+-->
 
 </div>
 
@@ -80,7 +80,11 @@
   <a href="https://sass-lang.com/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   </a>
-  
+
+  <a href="https://tailwindcss.com/">
+  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
@@ -133,6 +137,8 @@
 
   </div>
 
+<!--
+
   ### Mobile Development
 
 <div>
@@ -141,16 +147,18 @@
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   </a>
 
-<!--
+
   <a href="https://kotlinlang.org/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   </a>
--->
+
   <a href="https://flutter.dev/">
   <img src="https://github.com/hasin023/DevIcons/blob/main/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   </a>
   
 </div>
+
+-->
 
 ### Design
 
