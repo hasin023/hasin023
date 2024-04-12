@@ -23,9 +23,9 @@
 
 ###  About Me :
 
-- 🔭 I’m currently working on **JavaLoX & Collections Class**
-- 🌱 I’m currently learning **SvelteKit, Dart**
-- 💬 Ask me about **.NET Development, Web Development**
+- 🔭 I’m currently working on **Ollama Fine Tuning**
+- 🌱 I’m currently learning **TransformersJS, Google Colba**
+- 💬 Ask me about **Web Dev & LL Models**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
 
