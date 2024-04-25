@@ -24,7 +24,7 @@
 ###  About Me :
 
 - 🔭 I’m currently working on **Ollama Fine Tuning**
-- 🌱 I’m currently learning **TransformersJS, Google Colba**
+- 🌱 I’m currently learning **TransformersJS, Google Colab**
 - 💬 Ask me about **Web Dev & LL Models**
 - 📫 Mail: hasinmahtab.alvee@gmail.com
 - ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
