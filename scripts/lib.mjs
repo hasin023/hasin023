@@ -32,9 +32,11 @@ const load = (p) => {
   const b = fs.readFileSync(path.join(HERE, 'node_modules/@fontsource', p))
   return opentype.parse(b.buffer.slice(b.byteOffset, b.byteOffset + b.byteLength))
 }
+const face = (pkg, ws) => Object.fromEntries(ws.map((w) => [w, load(`${pkg}/files/${pkg}-latin-${w}-normal.woff`)]))
 const FONTS = {
-  sans: Object.fromEntries([400, 500, 600, 700].map((w) => [w, load(`geist-sans/files/geist-sans-latin-${w}-normal.woff`)])),
-  mono: Object.fromEntries([400, 500].map((w) => [w, load(`geist-mono/files/geist-mono-latin-${w}-normal.woff`)])),
+  sans: face('instrument-sans', [400, 500, 600, 700]), // body
+  display: face('bricolage-grotesque', [600, 700, 800]), // headings, name, big numbers
+  mono: face('martian-mono', [400, 500]), // labels and chips
 }
 
 function run(font, str, size, track) {
@@ -53,7 +55,7 @@ function run(font, str, size, track) {
   return { d, width: x - track * size }
 }
 
-const fontOf = (o) => (o.mono ? FONTS.mono : FONTS.sans)[o.w ?? 400]
+const fontOf = (o) => (o.d ? FONTS.display[o.w ?? 700] : o.mono ? FONTS.mono[o.w ?? 400] : FONTS.sans[o.w ?? 400])
 
 export function tw(str, o = {}) {
   return run(fontOf(o), str, o.size ?? 16, o.track ?? 0).width
@@ -140,23 +142,23 @@ export function panel(x, y, w, h, { r = 20, fill = C.panel, stroke = C.line, ext
   )
 }
 
-export function chip(label, { x = 0, y = 0, ic, h = 26, size = 12.5, color = C.mute } = {}) {
-  const pad = 11
-  const isz = 14
+export function chip(label, { x = 0, y = 0, ic, h = 22, size = 9.5, color = C.mute } = {}) {
+  const pad = 9
+  const isz = 12
   const lw = tw(label, { size, mono: true })
-  const w = pad * 2 + lw + (ic ? isz + 7 : 0)
+  const w = pad * 2 + lw + (ic ? isz + 6 : 0)
   let s = `<rect x="${r1(x)}" y="${r1(y)}" width="${r1(w)}" height="${h}" rx="${h / 2}" fill="${C.panel2}" stroke="${C.line2}"/>`
   let cx = x + pad
   if (ic) {
     s += icon(ic, cx, y + (h - isz) / 2, isz, color)
-    cx += isz + 7
+    cx += isz + 6
   }
   s += text(label, { x: cx, y: y + h / 2 + size * 0.355, size, mono: true, fill: color })
   return { svg: s, w }
 }
 
 // items: [label, iconKey?]; flows onto rows within maxW
-export function chipRow(items, { x, y, maxW, gap = 6, h = 26, size = 12.5 }) {
+export function chipRow(items, { x, y, maxW, gap = 5, h = 22, size = 9.5 }) {
   let cx = x
   let cy = y
   let svg = ''
